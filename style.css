@@ -1,0 +1,10 @@
+* {
+    background-color: blanchedalmond;}
+.paragraph{
+    font-size: 30px;
+}
+.image{
+    display:flex ; 
+    justify-content:space-evenly;
+
+}
